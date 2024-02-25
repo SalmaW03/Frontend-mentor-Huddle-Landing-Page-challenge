@@ -100,22 +100,16 @@ p {
         left: -11%;
         top: 200px;
     }
-    .social-icons {
-        position: relative;
-        bottom: -640px;
-        right: -910px;
-    }
     .logo {
-        width: 180px;
+        width: 230px;
         padding-left: 60px;
-        padding-top: 30px;
+        padding-top: 50px;
     }
-
     .container {
         position: relative;
         float: right;
         left: -4%;
-        top: 190px;
+        top: 200px;
     }
     h1 {
         font-size: 2.5em;
@@ -125,5 +119,10 @@ p {
         font-size: 1.3em;
         width: 570px;
         font-weight: 100;
+    }
+    .social-icons {
+        position: relative;
+        bottom: -610px;
+        right: -860px;
     }
 }
