@@ -89,7 +89,7 @@ p {
 
 @media screen and (min-width: 1440px) {
     body {
-        background-size: 1300px auto;
+        background-size: 1300px 800px;
     }
     .mckup {
         width: 690px;
